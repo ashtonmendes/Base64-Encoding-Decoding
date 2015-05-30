@@ -7,9 +7,7 @@
 <BODY BGCOLOR="#FFFFFF" LINK="#D02090" VLINK="#996600" ALINK="#990000">
 
 <TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=100%>
-<TR><TD ALIGN=CENTER VALIGN=TOP WIDTH=112>
-    <!-- COL 1, should be identical to all other pages here -->
-    </TD>
+<TR>
     
     <TD ALIGN=LEFT VALIGN=TOP>
     <!-- COL 3, every page should be different -->
